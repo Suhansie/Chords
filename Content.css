@@ -1,0 +1,35 @@
+a:link {
+    color: #ffd000;
+    background-color: transparent;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+a:visited {
+    color: #ffffff8a;
+    background-color: transparent;
+    text-decoration: none;
+    font-family: monospace;
+}
+
+a:hover {
+    color: #ffd0008b;
+    background-color: transparent;
+    text-decoration: none;
+    font-size: px;
+    transition: font-size 0.s linear, font-color 0.3s linear;
+
+}
+
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+body {
+    line-height: 30px;
+    padding: 50px;
+}
